@@ -1,5 +1,5 @@
 # 2021_Winter_Internship
-![CSDL_Winter2021_Internpng](https://user-images.githubusercontent.com/67090206/103679369-19cf4680-4fc8-11eb-83cb-46e16289c9e0.png)
+![CSDL_Winter2021_Internpng](https://user-images.githubusercontent.com/67090206/103681020-4c7a3e80-4fca-11eb-87a4-f956aaf3f993.png)
 
 ## Basic course
 [1. Internship Orientation](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EUpLhzzuMvtJmRG0j6O3-C8BvdaJviUowoeeBjhmMoHEwA?e=4setq1)
