@@ -4,7 +4,7 @@
 ## Basic course
 [1. Internship Orientation](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EUpLhzzuMvtJmRG0j6O3-C8BvdaJviUowoeeBjhmMoHEwA?e=4setq1)
 
-[2. Linux / Vi]
+2. Linux / Vi
  * [Source 1](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/ERRP_3KEB_1BvYWe4YgPK1wBK30gX92F_uN6ot3HGWnv5g?e=X1ofMx)
  * [Source 2](https://www.dropbox.com/s/j7lajpfwhc38u9k/Lecture03_CMOS_Tech.pdf?dl=0)
  
