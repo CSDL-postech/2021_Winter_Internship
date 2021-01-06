@@ -6,8 +6,7 @@
 
 [2. Linux / Vi]
  * [Source 1](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/ERRP_3KEB_1BvYWe4YgPK1wBK30gX92F_uN6ot3HGWnv5g?e=X1ofMx)
- * [Source 2](https://www.dropbox.com/s/j7lajpfwhc38u9k/Lecture03_CMOS_Tech.pdf?dl=0)
- * [Source 3](https://www.dropbox.com/s/6j8b7tpyfe9bxjp/Linux%20SSH%20connection.pdf?dl=0)
+ * [Source 2](https://www.dropbox.com/s/6j8b7tpyfe9bxjp/Linux%20SSH%20connection.pdf?dl=0)
  
 [3. Github](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EeoqxL_lo1dGk1fkvi27vzYB3h160UK0xCHn0Egmqq0QjA?e=WBvv6m)
 
