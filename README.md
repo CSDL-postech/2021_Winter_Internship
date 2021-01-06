@@ -2,7 +2,7 @@
 ![CSDL_Winter2021_Internpng](https://user-images.githubusercontent.com/67090206/103681020-4c7a3e80-4fca-11eb-87a4-f956aaf3f993.png)
 
 ## Basic course
-[1. Internship Orientation](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EUpLhzzuMvtJmRG0j6O3-C8BvdaJviUowoeeBjhmMoHEwA?e=4setq1)
+[1. Internship Orientation](https://www.dropbox.com/scl/fi/sfk2agx0anhlap9ekoac0/21Winter-Internship-orientation.pptx?dl=0&rlkey=ydlldfclthtawuzpxxbq6odzg)
 
 [2. Linux / Vi]
  * [Source 1](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/ERRP_3KEB_1BvYWe4YgPK1wBK30gX92F_uN6ot3HGWnv5g?e=X1ofMx)
