@@ -15,4 +15,16 @@
 
 ## MVL Introduction (1/11 Mon)
 
-## LaTex
+## LaTeX (1/13 Wed)
+
+## Physical Design Introduction (1/18 Mon)
+
+## Frond End Design - Design Compiler, Nc-Verilog (1/20 Wed)
+
+## Quantum Introduction (1/25 Mon)
+
+## Back End Design - Encounter (1/27 Wed)
+
+## DL HW Introduction (2/01 Mon)
+
+## Automatic Speech Recognition (2/01 Mon)
