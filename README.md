@@ -22,7 +22,7 @@
 [Other Source](https://postechackr-my.sharepoint.com/:b:/g/personal/mhkwon98_postech_ac_kr/EfJcIkBDmE5Psvp8BAt4s4wBYwY5VBE-ZwdHGZAr8xQPWg?e=HJYPDE)
 
 [Assignment - Due 1/19 Tues 11:59PM]
- * [Template (.zip file)](https://www.dropbox.com/s/y643mwo6zoqph25/LaTeX_HW_Template-Outlier_DATE_2021.zip?dl=0)
+ * [Template (.zip file)]()
  * [Document](https://www.dropbox.com/s/d486235ff1883xp/LaTeX_HW_Doc-Outlier_DATE2021.pdf?dl=0)
  
 ## Custom Design - HSPICE, Virtuoso (1/13 Wed)
