@@ -26,6 +26,7 @@
  * [Document](https://www.dropbox.com/s/d486235ff1883xp/LaTeX_HW_Doc-Outlier_DATE2021.pdf?dl=0)
  
 ## Custom Design - HSPICE, Virtuoso (1/13 Wed)
+ [Slide](https://www.dropbox.com/s/yqdtaad1ejpu45e/HSPICE_VIRTUOSO_ycc.pdf?dl=0)
 
 ## Physical Design Introduction (1/18 Mon)
 
