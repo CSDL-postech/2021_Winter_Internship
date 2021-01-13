@@ -24,6 +24,8 @@
 [Assignment - Due 1/19 Tues 11:59PM]
  * [Template (.zip file)](https://www.dropbox.com/s/y643mwo6zoqph25/LaTeX_HW_Template-Outlier_DATE_2021.zip?dl=0)
  * [Document](https://www.dropbox.com/s/d486235ff1883xp/LaTeX_HW_Doc-Outlier_DATE2021.pdf?dl=0)
+ * [fig8-(a) - Missing figure](https://www.dropbox.com/s/pcylx1chxlug8bs/fig8-%28a%29.png?dl=0)
+ * [fig9-(b) - Missing figure](https://www.dropbox.com/s/5llwz8dcbgygoo0/Activation_Selection_unit_7.pdf?dl=0)
  
 ## Custom Design - HSPICE, Virtuoso (1/13 Wed)
  [Slide](https://www.dropbox.com/s/yqdtaad1ejpu45e/HSPICE_VIRTUOSO_ycc.pdf?dl=0)
