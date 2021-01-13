@@ -1,5 +1,5 @@
 # 2021_Winter_Internship
-![CSDL_Winter2021_Internpng](https://user-images.githubusercontent.com/67090206/103681020-4c7a3e80-4fca-11eb-87a4-f956aaf3f993.png)
+![CSDL_Winter2021_Internpng](https://user-images.githubusercontent.com/67090206/104411661-22b6ae00-55ae-11eb-969e-fdd518d83b2f.png)
 
 ## Basic courses (1/06 Wed)
 [1. Internship Orientation](https://www.dropbox.com/scl/fi/sfk2agx0anhlap9ekoac0/21Winter-Internship-orientation.pptx?dl=0&rlkey=ydlldfclthtawuzpxxbq6odzg)
