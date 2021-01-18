@@ -31,6 +31,7 @@
  [Slide](https://www.dropbox.com/s/yqdtaad1ejpu45e/HSPICE_VIRTUOSO_ycc.pdf?dl=0)
 
 ## Physical Design Introduction (1/18 Mon)
+ [Slide](https://www.dropbox.com/scl/fi/b0qcyvfs50fa2cg308z9g/Physical_design_DYK.pptx?dl=0&rlkey=0m6jgxj51osjgfvwgqxn3xoj7)
 
 ## Frond End Design - Design Compiler, Nc-Verilog (1/20 Wed)
 
