@@ -33,7 +33,7 @@
 ## Physical Design Introduction (1/18 Mon)
  [Slide](https://www.dropbox.com/scl/fi/b0qcyvfs50fa2cg308z9g/Physical_design_DYK.pptx?dl=0&rlkey=0m6jgxj51osjgfvwgqxn3xoj7)
 
-## Frond End Design - Design Compiler, Nc-Verilog (1/20 Wed)(https://www.dropbox.com/s/13lac4yvd1bwrvg/%28pdf%29Internship_verilog_SGL.pdf?dl=0)
+## [Frond End Design - Design Compiler, Nc-Verilog (1/20 Wed)](https://www.dropbox.com/s/13lac4yvd1bwrvg/%28pdf%29Internship_verilog_SGL.pdf?dl=0)
  [Slide](https://www.dropbox.com/s/13lac4yvd1bwrvg/%28pdf%29Internship_verilog_SGL.pdf?dl=0)
 
 ## Quantum Introduction (1/25 Mon)
