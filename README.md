@@ -37,6 +37,7 @@
  [Slide](https://www.dropbox.com/s/13lac4yvd1bwrvg/%28pdf%29Internship_verilog_SGL.pdf?dl=0)
 
 ## Quantum Introduction (1/25 Mon)
+[Slide](https://www.dropbox.com/scl/fi/g708gtgwg8v9gznyydxp6/210125_QuantumComputing_SHP.pptx?dl=0&rlkey=mckucfzdhagvxlotp6ms0bctc)
 
 ## Back End Design - Encounter (1/27 Wed)
 
