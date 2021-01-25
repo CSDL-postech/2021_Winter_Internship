@@ -40,6 +40,8 @@
 
 ## Back End Design - Encounter (1/27 Wed)
 
+## Lab Server System (1/27 Wed)
+
 ## DL HW Introduction (2/01 Mon)
 
 ## Automatic Speech Recognition (2/01 Mon)
