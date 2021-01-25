@@ -27,17 +27,13 @@
  * [fig8-(a) - Missing figure](https://www.dropbox.com/s/pcylx1chxlug8bs/fig8-%28a%29.png?dl=0)
  * [fig9-(b) - Missing figure](https://www.dropbox.com/s/5llwz8dcbgygoo0/Activation_Selection_unit_7.pdf?dl=0)
  
-## Custom Design - HSPICE, Virtuoso (1/13 Wed)
- [Slide](https://www.dropbox.com/s/yqdtaad1ejpu45e/HSPICE_VIRTUOSO_ycc.pdf?dl=0)
+## [Custom Design - HSPICE, Virtuoso (1/13 Wed)](https://www.dropbox.com/s/yqdtaad1ejpu45e/HSPICE_VIRTUOSO_ycc.pdf?dl=0)
 
-## Physical Design Introduction (1/18 Mon)
- [Slide](https://www.dropbox.com/scl/fi/b0qcyvfs50fa2cg308z9g/Physical_design_DYK.pptx?dl=0&rlkey=0m6jgxj51osjgfvwgqxn3xoj7)
+## [Physical Design Introduction (1/18 Mon)](https://www.dropbox.com/scl/fi/b0qcyvfs50fa2cg308z9g/Physical_design_DYK.pptx?dl=0&rlkey=0m6jgxj51osjgfvwgqxn3xoj7)
 
 ## [Frond End Design - Design Compiler, Nc-Verilog (1/20 Wed)](https://www.dropbox.com/s/13lac4yvd1bwrvg/%28pdf%29Internship_verilog_SGL.pdf?dl=0)
- [Slide](https://www.dropbox.com/s/13lac4yvd1bwrvg/%28pdf%29Internship_verilog_SGL.pdf?dl=0)
 
-## Quantum Introduction (1/25 Mon)
-[Slide](https://www.dropbox.com/scl/fi/g708gtgwg8v9gznyydxp6/210125_QuantumComputing_SHP.pptx?dl=0&rlkey=mckucfzdhagvxlotp6ms0bctc)
+## [Quantum Introduction (1/25 Mon)](https://www.dropbox.com/scl/fi/g708gtgwg8v9gznyydxp6/210125_QuantumComputing_SHP.pptx?dl=0&rlkey=mckucfzdhagvxlotp6ms0bctc)
 
 ## Back End Design - Encounter (1/27 Wed)
 
