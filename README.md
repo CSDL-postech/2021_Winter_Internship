@@ -37,6 +37,8 @@
 ## [Back End Design - Innovus, Primetime (1/27 Wed)](https://www.dropbox.com/s/mmyuveu662s1ip9/Innovus_Primetime.pdf?dl=0)
 
 ## Lab Server System (1/27 Wed)
+ * [Lab Server System](https://www.dropbox.com/scl/fi/19gyrtliw5qja65978zfw/Server_SYL.pptx?dl=0&rlkey=yjizw4ycmtfgcasvasnvyy41z)
+ * [GPU Server Manual](https://www.dropbox.com/scl/fi/hik5adbtaupblq8xqhiex/GPUwork_SGL.pptx?dl=0&rlkey=sz0s4i7g3yodi5ul0qts2um7m)
 
 ## DL HW Introduction (2/01 Mon)
 
