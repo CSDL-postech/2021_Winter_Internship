@@ -34,7 +34,7 @@
 
 ## [Quantum Introduction (1/25 Mon)](https://www.dropbox.com/scl/fi/g708gtgwg8v9gznyydxp6/210125_QuantumComputing_SHP.pptx?dl=0&rlkey=mckucfzdhagvxlotp6ms0bctc)
 
-## [Back End Design - Encounter (1/27 Wed)](https://www.dropbox.com/s/mmyuveu662s1ip9/Innovus_Primetime.pdf?dl=0)
+## [Back End Design - Innovus, Primetime (1/27 Wed)](https://www.dropbox.com/s/mmyuveu662s1ip9/Innovus_Primetime.pdf?dl=0)
 
 ## Lab Server System (1/27 Wed)
 
