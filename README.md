@@ -40,6 +40,6 @@
  * [Lab Server System](https://www.dropbox.com/scl/fi/19gyrtliw5qja65978zfw/Server_SYL.pptx?dl=0&rlkey=yjizw4ycmtfgcasvasnvyy41z)
  * [GPU Server Manual](https://www.dropbox.com/scl/fi/hik5adbtaupblq8xqhiex/GPUwork_SGL.pptx?dl=0&rlkey=sz0s4i7g3yodi5ul0qts2um7m)
 
-## DL HW Introduction (2/01 Mon)
+## [DL HW Introduction (2/01 Mon)](https://www.dropbox.com/scl/fi/g6usqi092f4sryu8ez95f/210201_DL_HW.pptx?dl=0&rlkey=7nbc55028a8392i2vi62ro0nc)
 
 ## Automatic Speech Recognition (2/01 Mon)
