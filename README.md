@@ -43,3 +43,5 @@
 ## [DL HW Introduction (2/01 Mon)](https://www.dropbox.com/scl/fi/g6usqi092f4sryu8ez95f/210201_DL_HW.pptx?dl=0&rlkey=7nbc55028a8392i2vi62ro0nc)
 
 ## Automatic Speech Recognition (2/01 Mon)
+ * [Speech Recognition](https://www.dropbox.com/scl/fi/pcd329zx8z3lydhy2oyeu/Speech-recognition.pptx?dl=0&rlkey=wlwqxju7xgtiht9ab5cxr6o1l)
+ * [Speech Seperation](https://www.dropbox.com/scl/fi/btx1m6q35c4mha4wmpv6v/Speech-separation.pptx?dl=0&rlkey=uqbodk43tynfsm62tgvkkefxj)
