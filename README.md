@@ -42,4 +42,4 @@
 
 ## DL HW Introduction (2/01 Mon)
 
-## Speech Seperation (2/01 Mon)
+## Automatic Speech Recognition (2/01 Mon)
